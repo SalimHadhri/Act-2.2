@@ -1,0 +1,9 @@
+QCM 1 - Déterminer si le programme suivant générera :
+
+a)Des erreurs de compilation;
+
+*********************************************************************************************************************
+
+QCM 2 - Déterminer si le programme suivant générera :
+
+a)Des erreurs de compilation;
